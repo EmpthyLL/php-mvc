@@ -1,7 +1,7 @@
 <?php 
 Class Home{
     public function index(){
-        echo "home/index";
+        $this=>view("home/index")
     }
 }
 
