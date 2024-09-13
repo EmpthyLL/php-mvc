@@ -1,8 +1,8 @@
-<?php 
-Class Home{
-    public function index(){
-        $this=>view("home/index")
+<?php
+class Home extends Controller
+{
+    public function index()
+    {
+        $this->view("home/index", [], "Halaman Home");
     }
 }
-
-?>
