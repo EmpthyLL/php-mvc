@@ -1,1 +1,1 @@
-<h1>Ini mah page!</h1>
+<h1 class="text-3xl font-semibold">Ini mah page!</h1>
